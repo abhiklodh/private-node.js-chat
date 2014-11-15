@@ -136,6 +136,8 @@ body {
 }
 .tutorial{
 	margin-bottom:90px;
+    width: 300px;
+    height: 600px;
 }
 #tutorial {
 	color: #88bfd4;
