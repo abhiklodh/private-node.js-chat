@@ -59,19 +59,7 @@ just send me a request to merge it (i will be checking it for useless s#!*)
    
 ##Screenshot(S)
 
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5653164804014080/Create%20a%20new%20chat%20room%20.png)
-
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5110435556622336/Create%20a%20new%20chat%20room%20.png)
-
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5630978613575680/Create%20a%20new%20chat%20room%20.png)
-
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5187840530972672/Create%20a%20new%20chat%20room%20.png)
-
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5068028660154368/Create%20a%20new%20chat%20room%20.png)
-
-this pic has wrong output as the screenshot app screwed itself up!
-
-![Picture](http://grumblechatting.appspot.com/room/github-devs/download/5137785908363264/Create%20a%20new%20chat%20room%20.png)
+just head over to http://grumblechatting.appspot.com/room/github-devs to see the screenshots and pls comment there or at github's issue tracker to keep me alive :P
 
 
 [node.js]:http://nodejs.org
