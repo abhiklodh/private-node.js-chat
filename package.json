@@ -1,7 +1,7 @@
 {
-  "name": "NodeChatSystem",
+  "name": "private-nodejs-chat",
   "version": "0.0.1",
-  "description": "Realtime chat system for Tutorialzine.com",
+  "description": "Realtime chat system made for my huge family",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,7 @@
     "chat",
     "system"
   ],
-  "author": "Nikolay Anastasov",
-  "license": "MIT",
+  "author": "Abhik Lodh",
   "dependencies": {
     "ejs": "^1.0.0",
     "express": "^4.8.2",
